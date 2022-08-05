@@ -22,6 +22,7 @@ def generar_id():
     # Aumentar en 1 el ID encontrado, y retornarlo
     return ultimo_id + 1
 
+
 def reordenar_ids():
     '''
     Función que reordena los IDs del CSV de libros
@@ -47,6 +48,7 @@ def reordenar_ids():
 
         # Escribir los libros 
         writer.writerows(data)
+
 
 def nuevo_libro():
     control = True # Variable que se usa para verificar la existencia del ISBN
@@ -156,6 +158,7 @@ def modificar_libro():
         writer.writeheader()
         writer.writerows(data)
 
+
 def reportes_varios():
     opcion_reporte = None
     variable_sn = None
@@ -215,4 +218,3 @@ if __name__ == '__main__':
             break
         else:
             print("Debe ingresar un valor válido")
-
