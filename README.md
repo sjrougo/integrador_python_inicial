@@ -1,9 +1,9 @@
 ![books-g4be6700ba_1280](https://user-images.githubusercontent.com/107430928/182972258-add20013-a605-4eb2-a85b-c94a984a3e5a.jpg)
 # Sistema de control de biblioteca
 
-Versión del proyecto: 1.1                                                           
-Autor: sjrougo - Santiago Rougoski                                          
-Contacto: santiagorougoski@gmail.com                                        
+*Versión del proyecto: 1.1*                                                           
+*Autor: sjrougo - Santiago Rougoski*                                          
+*Contacto: santiagorougoski@gmail.com*                                        
 
 Este es un pequeño administrador de libros. A veces tenemos unos cuantos libros (o muchos!) y es un poco engorroso no saber bien cuáles son, los autores o títulos que ya poseemos.
 
